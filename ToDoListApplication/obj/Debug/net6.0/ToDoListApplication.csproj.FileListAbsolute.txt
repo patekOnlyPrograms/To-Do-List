@@ -1,0 +1,15 @@
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\net6.0\ToDoListApplication.exe
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\net6.0\ToDoListApplication.deps.json
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\net6.0\ToDoListApplication.runtimeconfig.json
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\net6.0\ToDoListApplication.dll
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\net6.0\ToDoListApplication.pdb
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.csproj.AssemblyReference.cache
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.AssemblyInfoInputs.cache
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.AssemblyInfo.cs
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.csproj.CoreCompileInputs.cache
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.dll
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\refint\ToDoListApplication.dll
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.pdb
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ToDoListApplication.genruntimeconfig.cache
+C:\Users\abhir\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\net6.0\ref\ToDoListApplication.dll
